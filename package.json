@@ -1,0 +1,25 @@
+{
+  "name": "oracletypeorm",
+  "version": "1.0.0",
+  "description": "Crud basico nodejs, oracle 11g, typeorm y express",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Node",
+    "express",
+    "typeorm",
+    "oracledb"
+  ],
+  "author": "litoos11",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "connect-multiparty": "^2.2.0",
+    "express": "^4.17.1",
+    "md5-nodejs": "^1.0.3",
+    "oracledb": "github:oracle/node-oracledb#v3.1.2",
+    "typeorm": "^0.2.18"
+  }
+}
