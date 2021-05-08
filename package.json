@@ -20,6 +20,6 @@
     "express": "^4.17.1",
     "md5-nodejs": "^1.0.3",
     "oracledb": "github:oracle/node-oracledb#v3.1.2",
-    "typeorm": "^0.2.18"
+    "typeorm": "^0.2.25"
   }
 }
